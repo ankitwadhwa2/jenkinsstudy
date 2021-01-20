@@ -4,3 +4,5 @@ Hi
 hello
 Deployment done
 
+<h2> Devops step 1 is to add tomcat server credentials on jenkins server and install pluging deploy on container and create job </h2>
+
